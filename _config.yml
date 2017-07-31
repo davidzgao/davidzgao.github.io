@@ -4,12 +4,12 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "陈素封|读而立·写而生"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://davidzgao.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: "davidzgao"
+  email: gaozhehere@hotmail.com
   bio: "写就是写的报酬"
 
 # Data
