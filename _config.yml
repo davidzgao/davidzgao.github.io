@@ -5,6 +5,7 @@ tagline: "cn"
 description: "高哲|勿忘初心"  
 baseurl: ""
 url: "https://davidzgao.github.io"  
+imgBaseUrl: "http://ou00wh88o.bkt.clouddn.com"
 
 # About/contact
 owner: 
@@ -14,7 +15,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: "img/favicon.png"
 
 douban_username:  
 twitter_username: 
