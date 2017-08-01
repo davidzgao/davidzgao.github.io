@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "勿忘初心 "
-header-img: "img/green.jpg"
+header-img: "green.jpg"
 ---
 
 

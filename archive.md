@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "Hi，这里是我我不爱猴的所有文章"
-header-img: "img/orange.jpg"
+header-img: "orange.jpg"
 ---
 
 
