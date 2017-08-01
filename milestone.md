@@ -12,8 +12,13 @@ header-img: "img/zhihu.jpg"
 
 
 
+- 2017-07-31  将博客搬到github，重新创建自己的空间
+ _config.yml 配置
 
-- [ 先前的个人网站 ](http://119.254.102.37/)
+- 此博客jekyll模板 fork 自 [cnfeat](http://www.cnfeat.com/)，感谢。
+
+- 先前的个人网站是[ 这里 ](http://119.254.102.37/)
+
 
 
 
