@@ -1,8 +1,8 @@
 # Site settings
-title: 读立写生
-header-img: "img/green.jpg"
+title: 我不爱猴的部落格
+header-img: "img/black.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "高哲|勿忘初心"  
 baseurl: ""
 url: "https://davidzgao.github.io"  
 
@@ -10,7 +10,7 @@ url: "https://davidzgao.github.io"
 owner: 
   name: "davidzgao"
   email: gaozhehere@hotmail.com
-  bio: "写就是写的报酬"
+  bio: "每一天更好一点"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
