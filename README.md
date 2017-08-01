@@ -1,11 +1,11 @@
-##说明
+## 说明
 
 2017-07-31  将博客搬到github，重新创建自己的空间
  _config.yml 配置
 
 此博客jekyll模板 fork 自 [cnfeat](http://www.cnfeat.com/)，感谢。
 
-##我不爱猴的空间
+## 我不爱猴的空间
 
 我是高哲，博客：[davidzgao.github.io]
 
