@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: "哈哈，你找到了我的文章标签库"  
 header-img: "semantic.jpg"  
 ---
 
@@ -12,12 +12,12 @@ header-img: "semantic.jpg"
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
 
-## 基因列表
+## 标签列表
 
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+<strong><a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a></strong>
 {% endfor %}
 </div>
 
