@@ -40,13 +40,13 @@ description: 记录自己的学习过程
 
 包括输入层，隐藏层和输出层。每一个处理单元都是一个逻辑回归模型。
 
-![img1](http://images.cnitblog.com/blog/673793/201412/221224194835024.png)
+![img1]({{ site.imgBaseUrl }}/neutronNetwork.png)
 
 3，支持向量机
 
 利用核函数，将低维数据空间转到高维，从而利用线性划分求最大分隔超平面。
 
-![img2](http://images.cnitblog.com/blog/673793/201412/100907449932793.gif)
+![img2]('{{ site.imgBaseUrl }}/svm.gif')
 4，聚类算法
 
 通过提取特征和计算距离，来划分多个组群。K-means。
