@@ -8,7 +8,7 @@ description: 养成好的编程习惯
 ---
 将原先的if-elif-else分支替换成遍历所有的条件类来看一下区别。
 
-###替换前：
+### 替换前：
 
 `def do_GET(self):`
 
