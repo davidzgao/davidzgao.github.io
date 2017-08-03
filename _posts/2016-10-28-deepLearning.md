@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 深度学习笔记
-date: 2016-10-1
+date: 2016-10-28
 categories: blog
 tags: [DeepLearning,技术]
 description: 深度学习笔记
 ---
 **不断更新ing**
 
-### 学习list：
+## 学习list：
 1, 深度学习背景知识
 <http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=2672246409&idx=1&sn=bde5b47b5db7fbd4abd9321a74d73391&scene=21#wechat_redirect>
 

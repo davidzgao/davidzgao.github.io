@@ -8,9 +8,10 @@ description: 养成好的编程习惯
 ---
 将原先的if-elif-else分支替换成遍历所有的条件类来看一下区别。
 
-替换前：
+###替换前：
 
 `def do_GET(self):`
+
     try:
 
         # 文件完整路径
@@ -45,9 +46,9 @@ description: 养成好的编程习惯
     except Exception as msg:
         self.handle_error(msg)
 
-替换后：
+### 替换后：
 
-# 所有可能的情况
+所有可能的情况
 
 
 `class case_no_file(object):`
@@ -117,7 +118,5 @@ description: 养成好的编程习惯
     except Exception as msg:
 
         self.handle_error(msg)
-
-`
 
 - 结论：这样每当我们需要考虑一个新的情况时，只要新写一个条件处理类然后加到 Cases 中去就行了，是不是比原先在if-elif-else中添加条件的做法看起来更加干净更加清楚呢，毕竟修改原有的代码是一件很有风险的事情，调试起来也非常麻烦。在做功能扩展的同时尽量不要修改原代码是软件开发过程中需要牢记的一点。
