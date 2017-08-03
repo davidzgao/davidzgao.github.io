@@ -46,7 +46,7 @@ description: 记录自己的学习过程
 
 利用核函数，将低维数据空间转到高维，从而利用线性划分求最大分隔超平面。
 
-![img2]('{{ site.imgBaseUrl }}/svm.gif')
+![img2]({{ site.imgBaseUrl }}/svm.gif)
 4，聚类算法
 
 通过提取特征和计算距离，来划分多个组群。K-means。
