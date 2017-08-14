@@ -51,9 +51,9 @@ n个词，用n维向量表示。举个例子：
 
 包含cbow和skip-gram两个模型。前者是通过关联的n-1个词预测1个词，后者是通过1个词预测周围的n-1个词。
 
-![img1]({{ site.imgBaseUrl/word2vector1.png }})
+![img1]({{ site.imgBaseUrl }}/word2vector1.png )
 
-![img2]({{ site.imgBaseUrl/word2vector2.png }})
+![img2]({{ site.imgBaseUrl }}/word2vector2.png )
 
 假设总的不同词语个数为V
 
