@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "davidzgao"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "{{ imgBaseUrl}}/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
