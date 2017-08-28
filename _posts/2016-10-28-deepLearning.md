@@ -19,3 +19,16 @@ description: 深度学习笔记
 <http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial>
 
 了解深度学习的基本知识
+
+
+### 模型
+
+1.TensorFlow ：接口支持python，c++。Google出品，成熟度和流行度较高。是一个理想的RNN（递归神经网络） API和实现
+
+2，Theano：支持python。目前流行的深度学习框架。Theano的符号API支持循环控制，让RNN的实现更加容易且高效。
+
+3，caffe：c++实现，
+
+
+
+
