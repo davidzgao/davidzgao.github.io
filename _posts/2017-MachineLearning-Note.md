@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 机器学习笔记
-date: 2016-10-08
+date: 2017-5-08
 categories: blog
 tags: [机器学习,个人心得]
 description: 记录自己的学习过程

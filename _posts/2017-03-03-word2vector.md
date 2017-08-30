@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Word2Vector学习笔记
+title: Word2Vector笔记
 date: 2017-3-3
 categories: blog
 tags: [机器学习,NLP]
