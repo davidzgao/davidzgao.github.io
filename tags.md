@@ -17,13 +17,13 @@ header-img: "semantic.jpg"
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-<strong><a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a></strong>
+<strong><a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }} &nbsp;</a></strong>
 {% endfor %}
 </div>
 
 <ul class="listing">
 {% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}"><strong>{{ tag[0] }}<strong></li>
+  <li class="listing-seperator" id="{{ tag[0] }}"><strong>{{ tag[0] }}</strong></li>
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
