@@ -7,7 +7,7 @@ header-img: "green.jpg"
 
 
 <center>
-    <p><img src="{{ site.imgBaseUrl }}/img/about-me-leon.jpeg" align="center"></p>
+    <p><img src="{{ site.imgBaseUrl }}/about-me-leon.jpeg" align="center"></p>
 </center>
 ## Hello World
 我是高哲，博客：[davidzgao.github.io](https://davidzgao.github.io)
