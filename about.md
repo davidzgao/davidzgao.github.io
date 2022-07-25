@@ -7,7 +7,7 @@ header-img: "green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="about-me-leon.jpeg" align="center"></p>
 </center>
 ## Hello World
 我是高哲，博客：[davidzgao.github.io](https://davidzgao.github.io)
