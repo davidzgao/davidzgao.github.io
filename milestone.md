@@ -17,9 +17,5 @@ header-img: "zhihu.jpg"
 
 - 此博客jekyll模板 fork 自 [cnfeat](http://www.cnfeat.com/)，感谢。
 
-- 先前的个人网站是[ 这里 ](http://119.254.102.37/)
-
-
-
 
 
