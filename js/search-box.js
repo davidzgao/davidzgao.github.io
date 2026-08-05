@@ -58,7 +58,7 @@ searchInput.oninput = function () {
     setTimeout(searchConfirm, 0);
 }
 searchInput.onfocus = function () {
-    searchResults.style.display = 'block';
+    searchResults.style.display = 'none';
 }
 
 function searchConfirm() {
