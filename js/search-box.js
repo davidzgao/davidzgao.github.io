@@ -130,7 +130,7 @@ function searchMatching(arr1, arr2, input) {
     for (i = 0; i < arrResults.length; i++) {
         var itemDiv = tmpDiv.cloneNode(true);
         itemDiv.innerHTML = '<b>《' + arrTitles[indexItem[i]] +
-            '》</b><hr />' + '<a class="blue-text">' + arrResults[i] + '</a>';
+            '》</b><hr class="hr-search" />' + '<a class="blue-text">' + arrResults[i] + '</a>';
         itemDiv.setAttribute('onclick', 'changeHref(arrLinks[indexItem[' + i + ']])');
         searchResults.appendChild(itemDiv);
     }
