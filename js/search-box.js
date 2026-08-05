@@ -58,7 +58,13 @@ searchInput.oninput = function () {
     setTimeout(searchConfirm, 0);
 }
 searchInput.onfocus = function () {
-    searchResults.style.display = 'none';
+    if (searchInput.value == '') {
+        searchResults.style.display = 'none';
+        searchClear.style.display = 'none';
+    } else {
+        searchResults.style.display = 'block';
+        searchClear.style.display = 'block';
+    }
 }
 
 function searchConfirm() {
