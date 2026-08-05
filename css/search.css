@@ -18,7 +18,7 @@
 
 .search .search-input {
     float: right;
-    width: 30%;
+    width: 20%;
     height: 30px;
     line-height: 30px;
     margin: 0;
@@ -42,7 +42,7 @@
     overflow: auto;
     text-align: left;
     border-radius: 5px;
-    background: #ccc;
+    background: #ebe9e9;
     box-shadow: 0 .3rem .5rem #333;
 }
 
@@ -53,5 +53,10 @@
     padding: 3px;
     border-radius: 3px;
     cursor: pointer;
+}
+
+.blue-text {
+    icolor: #2196F3 ;
+    padding: 16px 24px
 }
 /*  search icon  End */
